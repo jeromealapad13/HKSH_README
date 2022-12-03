@@ -1,7 +1,7 @@
 ## WHERE I WORK
-<code><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=MacOS&logoColor=white"></code>  
-### WITH <br>
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=MacOS&logoColor=white)
+### WITH
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=brightgreen)
